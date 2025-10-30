@@ -93,7 +93,7 @@ td {
 
 
 body {
-    background-image: url('./imagens/background.jpg');
+    background-image: url('./background.jpg');
     background-size: cover;
 }
 
@@ -103,4 +103,5 @@ footer {
     text-align: center;
     width: 100%;
     background-color: rgba(240, 248, 255, 0.2);
+
 }
